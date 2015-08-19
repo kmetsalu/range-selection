@@ -4,7 +4,7 @@
 }
 
 .c-range.includes {
-  background:green;
+  background: #4292F5;
 }
 
 .c-range .bar {
@@ -15,7 +15,7 @@
 }
 
 .c-range .bar.includes {
-  background: green;
+  background: #4292F5;
   color:white;
 }
 
