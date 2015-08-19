@@ -1,7 +1,7 @@
 (function() {
   var selectRange;
 
-  selectRange = angular.module('select_range', []);
+  selectRange = angular.module('range-selection', []);
 
   selectRange.controller("SelectRangeCtrl", [
     "$scope", "$element", "$attrs", "$log", "$window", function($scope, $element, $attrs, $log, $window) {
