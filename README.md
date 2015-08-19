@@ -2,6 +2,12 @@
 
 AngularJS directive for range selection
 
+Included range:
+![Included range](https://cloud.githubusercontent.com/assets/3165311/9356642/d63b410e-468a-11e5-9b6e-bde4ff9b7788.png)
+
+Excluded range:
+![Excluded range](https://cloud.githubusercontent.com/assets/3165311/9356643/d63f15d6-468a-11e5-9c7e-8a8c9dd794df.png)
+
 # Usage
 
 ### Add bootstrap CSS and AngularJS to your project
