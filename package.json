@@ -1,0 +1,24 @@
+{
+  "name": "range-selection",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/range-selection.js",
+  "dependencies": {
+    "angular": "^1.3.18",
+    "bootstrap": "^3.3.5"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-coffee": "^0.13.0",
+    "grunt-contrib-watch": "^0.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "angularjs",
+    "range"
+  ],
+  "author": "Kristjan Metsalu",
+  "license": "MIT"
+}
