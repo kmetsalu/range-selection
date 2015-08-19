@@ -22,7 +22,12 @@ Excluded range:
 
 ### Import module 
 	
-	app = angular.module "my-app", ["range-selection"]
+```coffeescript
+
+app = angular.module "my-app", ["range-selection"]
+
+```
+
 
 ### In HTML
 
